@@ -1,7 +1,6 @@
 Hello.
 
 ## - Find me somewhere else -
-My OSU profile: https://osu.ppy.sh/users/16845606
 
 My Discord: Myth#0419
 
